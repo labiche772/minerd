@@ -1,0 +1,1 @@
+minerd -a scrypt -o stratum+tcp://yiimp.mastermining.net:3433 -u PJLksqGcJsG7FS8jXSNKjoeLNB5mHqfaHe -p url=https://play.google.com/store/apps/details?id=com.termux
